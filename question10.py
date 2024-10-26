@@ -5,5 +5,5 @@ def tuples_to_dict(tuples_list):
     return result_dict
 
 # Example in usage
-sample_list = [("apple", 5), ("banana", 3)]
+sample_list = [("apple", 20), ("banana", 5)]
 print(tuples_to_dict(sample_list))
